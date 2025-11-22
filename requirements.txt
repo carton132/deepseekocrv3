@@ -9,4 +9,3 @@ markdown
 einops
 addict
 easydict
-flash-attn
