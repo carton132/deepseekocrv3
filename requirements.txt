@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pdf2image
+pillow
+transformers
+tokenizers
+torch
+markdown
+einops
+addict
+easydict
+flash-attn
